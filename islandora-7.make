@@ -19,11 +19,6 @@ projects[islandora_xml_forms][download][type] = "git"
 projects[islandora_xml_forms][download][url] = "https://github.com/Islandora/islandora_xml_forms.git"
 projects[islandora_xml_forms][download][branch] = "7.x"
 
-projects[islandora_content_model_forms][type] = "module"
-projects[islandora_content_model_forms][download][type] = "git"
-projects[islandora_content_model_forms][download][url] = "https://github.com/Islandora/islandora_content_model_forms.git"
-projects[islandora_content_model_forms][download][branch] = "7.x"
-
 projects[php_lib][type] = "module"
 projects[php_lib][download][type] = "git"
 projects[php_lib][download][url] = "https://github.com/Islandora/php_lib.git"
